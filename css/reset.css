@@ -42,12 +42,11 @@
     height: 400px;
     width: 400px;
     background: linear-gradient(45deg, var(--primary-color), transparent);
-    opacity: 0.3;
     z-index: -1;
   }
   
   body::after {
-      content: '';
+    content: '';
     position: absolute;
     bottom: -100px;
     right: -100px;
