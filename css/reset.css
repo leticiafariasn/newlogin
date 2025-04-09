@@ -30,7 +30,6 @@
     padding: 1rem;
     position: relative;
     overflow-x: hidden;
-    opacity: 0.2;
   }
   
   body::before{
@@ -42,6 +41,7 @@
     height: 400px;
     width: 400px;
     background: linear-gradient(45deg, var(--primary-color), transparent);
+    opacity: 0.3;
     z-index: -1;
   }
   
