@@ -30,6 +30,7 @@
     padding: 1rem;
     position: relative;
     overflow-x: hidden;
+    opacity: 0.2;
   }
   
   body::before{
