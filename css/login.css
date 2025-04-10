@@ -215,4 +215,4 @@ button:active {
     .login-container {
         padding: 2rem 1.5rem;
     }
-}
+} /*prioridade na responsividade. Assim ele fica melhor para mexer no celular, reduzindo os inputs em último caso */
